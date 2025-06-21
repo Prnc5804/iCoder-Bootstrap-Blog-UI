@@ -20,6 +20,8 @@ This project is a responsive blog website template built using **HTML5**, **CSS3
 - CSS3
 - [Bootstrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 - JavaScript (for Bootstrap's interactivity)
+- <!-- Trigger rebuild -->
+
 
 
 
